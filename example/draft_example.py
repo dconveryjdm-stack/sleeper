@@ -1,4 +1,4 @@
-from sleeper.api import (
+from sleeper.api import (https://api.sleeper.app/v1/league/1181413885742694400>/drafts)
     get_draft,
     get_drafts_in_league,
     get_player_draft_picks,
